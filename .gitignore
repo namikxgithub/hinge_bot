@@ -1,0 +1,6 @@
+# run logs contain screenshots of real people's profiles: never commit them
+runs/
+__pycache__/
+*.pyc
+*.png
+.venv/
